@@ -78,7 +78,7 @@ int main(void)
     
     // speed of ball
     double speed = 2.5;
-    double xspeed = drand48() * 3.0;
+    double xspeed = drand48() * 3.1;
     
     // onovlenna labels wikna
     updateScoreboard(window, label, bricks);
